@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.all-img {
+  height: 350px;
+  width: auto;
+}
+
+h1 {
+  font-size: 50px;
+  color: #6d396b;
+}
+
+.para {
+  color: #555555;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 0px;
+}
